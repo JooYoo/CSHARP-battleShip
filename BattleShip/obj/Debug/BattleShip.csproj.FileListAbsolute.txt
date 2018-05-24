@@ -1,0 +1,69 @@
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Temp\YZhu\BattleShip\BattleShip\obj\Debug\Interop.WMPLib.dll
+C:\Temp\YZhu\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.ResolveComReference.cache
+C:\Temp\YZhu\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Temp\YZhu\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\BGM.wav
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\GameOverLoser.wav
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\GameOverWinner.wav
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\HitShip.wav
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\HitWater.wav
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\SetShip.wav
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\Sunken.wav
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\TypeSound.wav
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Temp\YZhu\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Temp\YZhu\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\obj\Debug\Interop.WMPLib.dll
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.ResolveComReference.cache
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\BGM.wav
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\GameOverLoser.wav
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\GameOverWinner.wav
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\HitShip.wav
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\HitWater.wav
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\SetShip.wav
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\Sunken.wav
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\Sounds\TypeSound.wav
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Projects\artisoQualifizierung\Projects\YZhu\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\JooYoo Dev\BattleShip\BattleShip\obj\Debug\Interop.WMPLib.dll
+C:\JooYoo Dev\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.ResolveComReference.cache
+C:\JooYoo Dev\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\JooYoo Dev\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\Sounds\BGM.wav
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\Sounds\GameOverLoser.wav
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\Sounds\GameOverWinner.wav
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\Sounds\HitShip.wav
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\Sounds\HitWater.wav
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\Sounds\SetShip.wav
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\Sounds\Sunken.wav
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\Sounds\TypeSound.wav
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\JooYoo Dev\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\JooYoo Dev\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\obj\Debug\Interop.WMPLib.dll
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.ResolveComReference.cache
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\Sounds\BGM.wav
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\Sounds\GameOverLoser.wav
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\Sounds\GameOverWinner.wav
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\Sounds\HitShip.wav
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\Sounds\HitWater.wav
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\Sounds\SetShip.wav
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\Sounds\Sunken.wav
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\Sounds\TypeSound.wav
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\yzhu\Desktop\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\JooYooDev\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\JooYooDev\BattleShip\BattleShip\obj\Debug\Interop.WMPLib.dll
+C:\JooYooDev\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.ResolveComReference.cache
+C:\JooYooDev\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\JooYooDev\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
